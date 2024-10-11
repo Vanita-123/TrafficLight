@@ -1,0 +1,11 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    text-align: center;
+    padding: 50px;
+}
+.Show-offer{
+    background-color: green;
+    font-size: 20px;
+}

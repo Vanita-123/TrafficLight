@@ -1,5 +1,6 @@
+import ShowOffer from "./components/ShowOffer"
 
-
+import UndoRedu from './components/UndoRedu'
   import Traffic from './components/Traffic'
   function App() {
   return (
@@ -7,6 +8,8 @@
 
   
     <Traffic/>
+    <ShowOffer/>
+    <UndoRedu/>
     </div>
   )
 }
