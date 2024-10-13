@@ -1,15 +1,22 @@
-import ShowOffer from "./components/ShowOffer"
+// import ShowOffer from "./components/ShowOffer"
 
-import UndoRedu from './components/UndoRedu'
-  import Traffic from './components/Traffic'
+import Test from "./components/Test"
+// import Todolist from "./components/Todolist"
+
+// import UndoRedu from './components/UndoRedu'
+//   import Traffic from './components/Traffic'
+  // import List from './components/List'
   function App() {
   return (
     <div>
 
-  
+{/*   
     <Traffic/>
     <ShowOffer/>
-    <UndoRedu/>
+    <UndoRedu/> */}
+    {/* <List/> */}
+   {/* <Todolist/> */}
+   <Test/> 
     </div>
   )
 }
